@@ -39,7 +39,7 @@ export default function CookieBanner() {
             <div className='text-center'>
                 <Link href="/info/cookies">
                     <p>
-                        <span className='font-bold text-white'>We use cookies on our site</span>
+                        <span className='font-bold text-white'>We use cookies on our site.</span>
                     </p>
                 </Link>
             </div>
